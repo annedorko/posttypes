@@ -6,6 +6,8 @@ Building out what I hope will be a simple, beautiful custom post types class. St
 Usage
 ----------
 
+Note: Downloads in the form of a plugin. To try it out, simply clone it into your /plugins/ directory.
+
 ```
 require_once('classes/class.types.php');
 
